@@ -438,7 +438,7 @@ footer ul {
     }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 500px) {
     * {
         padding: 0;
         margin: 0;
@@ -448,7 +448,7 @@ footer ul {
     body {
         background: black;
         color: white;
-        margin: 10px 20px;
+        margin: 10px 0;
     }
 
     #navBar {
@@ -480,16 +480,16 @@ footer ul {
     }
 
     #navBtn {
-        margin-left: 150px;
-        padding: 10px 12px;
-        font-size: 10px;
+        margin-left: 100px;
+        padding: 6px 8px;
+        font-size: 7px;
         border: 1px solid #ccc;
         border-radius: 5px;
         color: palevioletred;
     }
 
     #dropDown img {
-        margin-right: 20px;
+        margin-right: 45px;
     }
 
     #logo {
@@ -553,6 +553,7 @@ footer ul {
         min-width: 70px;
         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
         z-index: 1;
+        margin-right: 100px;
     }
 
     #dropdown-content a {
@@ -667,7 +668,7 @@ footer ul {
         color: black;
         border-radius: 10px;
         text-align: center;
-        margin: 30px 0;
+        margin: 30px;
         justify-content: center;
         align-items: center;
         padding: 20px;
@@ -679,6 +680,7 @@ footer ul {
         align-items: center;
         text-align: center;
         padding: 5px;
+        margin: 10px 20px;
     }
 
     footer li a {
