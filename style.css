@@ -622,14 +622,6 @@ footer ul {
         width: 90%;
         margin: 10px auto;
     }
-/* 
-    #side .features {
-        border: none;
-        border-radius: 10px;
-        padding: 20px;
-        background: rgba(27, 26, 26, 0.9);
-        text-align: center;
-    } */
 
     #step {
         display: flex;
@@ -657,7 +649,8 @@ footer ul {
     }
 
     #contain {
-        margin: 5px;
+        width: 90%;
+        margin: 5px auto;
         padding: 10px;
     }
 
