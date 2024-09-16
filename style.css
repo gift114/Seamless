@@ -497,6 +497,7 @@ footer ul {
         border: none;
         border-radius: 5px;
         background: rgba(27, 26, 26, 0.9);
+        margin-left: 20px;
     }
 
     .pyBtn {
@@ -644,6 +645,11 @@ footer ul {
 
     #get-started p {
         margin-top: 10px;
+    }
+
+    #contain {
+        margin: 5px;
+        padding: 10px;
     }
 
     #get-started {
